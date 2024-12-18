@@ -6,7 +6,7 @@ This is the official code repository for the paper:
 
 ### Contents
 
-This repository contains three notebook we used to produce the figures in the paper.
+This repository contains three notebooks we used to run the simulations and generate the figures presented in the paper.
 
 * Figure 1A: [`2classes_key_value_optimization.ipynb`](https://github.com/kazuki-irie/kv-memory-brain/blob/master/2classes_key_value_optimization.ipynb)
 * Figure 1B: [`3classes_key_value_optimization.ipynb`](https://github.com/kazuki-irie/kv-memory-brain/blob/master/3classes_key_value_optimization.ipynb)
